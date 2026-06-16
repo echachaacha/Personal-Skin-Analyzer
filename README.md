@@ -12,3 +12,5 @@ Teknologi & Library
 - **Framework Web:** Streamlit
 - **Deep Learning Framework:** TensorFlow / Keras
 - **Image Processing:** Pillow (PIL) & NumPy
+
+LIVE DEMO: https://huggingface.co/spaces/hasnahumaira19/deteksi-jenis-kulit
